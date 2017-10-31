@@ -1,6 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <iterator>
+#include<bits/stdc++.h>
 using namespace std;
 
 void max_heapify(std::vector<int> &v, int index, int size){
