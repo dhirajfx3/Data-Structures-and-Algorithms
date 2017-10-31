@@ -1,8 +1,5 @@
 #include <iostream>
 #include <stdlib.h>
-/*
- *STL headers
- */
 #include <vector>
 #include <map>
 #include <iterator>
